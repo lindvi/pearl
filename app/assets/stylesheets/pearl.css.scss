@@ -1,0 +1,12 @@
+html, body{
+	height: 100%;
+}
+
+#pearl{
+	position: absolute;;
+	width: 200px;
+	height: 100%;
+	background-color: black;
+	z-index: 2147483647; /* Max value */
+	left: -200px;
+}
